@@ -1,2 +1,4 @@
-hi this is narendr
-i am learning devops 
+!/bin/bash
+echo "hi this is narendr"
+
+echo "i am learning devops "
